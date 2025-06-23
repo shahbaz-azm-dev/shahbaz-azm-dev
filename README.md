@@ -57,9 +57,6 @@ Welcome to my GitHub — this is where I build, break, and rebuild things that l
 
 I'm always open to collaboration, interesting problems, or just a tech chat.
 
-- LinkedIn: [Your LinkedIn]
-- Twitter/X: [Your Twitter]
-- Email: [Your Email]
-
+- LinkedIn: [Shahbaz Ali](https://www.linkedin.com/in/shahbaz-ali-36228b19a/)
 ---
 

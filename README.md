@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Shahbaz Ali
 
-Welcome to my GitHub — this is where I build, break, and rebuild things that live somewhere between scalable software and decentralized systems. I'm a full-stack developer with a backend-first mindset, obsessed with clean architecture, automation, and solving real-world problems using modern tools.
+Welcome to my GitHub
 
 ---
 
